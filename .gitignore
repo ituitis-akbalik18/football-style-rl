@@ -22,10 +22,7 @@ data/raw/
 !data/raw/.gitkeep
 data/processed/*.pkl
 
-# Outputs
-outputs/
-*.png
-*.pdf
+# Large/temp outputs only
 *.svg
 
 # IDE

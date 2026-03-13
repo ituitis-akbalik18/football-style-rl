@@ -1,0 +1,6 @@
+archetype,ppda,possession_pct,pass_directness,defensive_line_height,dribbles_per90,counter_attack_speed,progressive_passes_per90,crosses_per90,shots_open_play_pct,high_turnovers_per90
+Deep-Block Counter,0.54,0.29,0.34,0.174,0.22,0.496,0.294,0.324,0.868,0.328
+Direct Long-Ball,0.563,0.295,0.373,0.422,0.334,0.397,0.293,0.294,0.366,0.467
+High-Press Possession,0.78,0.702,0.235,0.667,0.545,0.424,0.541,0.46,0.355,0.779
+Individual Flair,0.355,0.284,0.19,0.32,0.339,0.235,0.185,0.174,0.808,0.297
+Wing-Play Focused,0.709,0.503,0.284,0.503,0.333,0.328,0.419,0.467,0.795,0.624
